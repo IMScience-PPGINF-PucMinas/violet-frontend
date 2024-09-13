@@ -1,16 +1,15 @@
-# violet
+# Violet: Uma Arquitetura para Facilitar a Interação e Acesso a Informações por meio de Perguntas sobre o Mundo Real
 
-A new Flutter project.
+## Visão Geral
 
-## Getting Started
+Este repositório contém os códigos do front-end desenvolvido para o Trabalho de Conclusão de Curso intitulado **"Violet: Uma Arquitetura para Facilitar a Interação e Acesso a Informações por meio de Perguntas sobre o Mundo Real"**, de autoria de Lucas Henrique Lírio Silva Loureiro, orientado por Felipe Augusto Lima Reis, no Instituto de Ciências Exatas e Informática da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
-This project is a starting point for a Flutter application.
+### Objetivo
+O projeto Violet visa auxiliar usuários a interagir de forma mais eficaz com o ambiente ao seu redor. Ele permite que perguntas em áudio sobre imagens sejam respondidas automaticamente por meio de tecnologias de inteligência artificial, como reconhecimento de fala, síntese de voz, visão computacional e modelos de linguagem natural.
 
-A few resources to get you started if this is your first Flutter project:
+## Front-end
+Aplicação para dispositivos móveis desenvolvida com o Framework Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Artigo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O artigo completo, intitulado **"Violet: Uma Arquitetura para Facilitar a Interação e Acesso a Informações por meio de Perguntas sobre o Mundo Real"**, pode ser encontrado no arquivo PDF disponível [aqui](https://drive.google.com/file/d/12kNDulllgauURLNhjtFd3pgx1bu9prhE/view?usp=sharing).
