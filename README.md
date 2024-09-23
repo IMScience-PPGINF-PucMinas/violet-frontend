@@ -12,4 +12,4 @@ A mobile application was implemented using the Violet architecture to evaluate i
 Mobile application developed with the Flutter Framework.
 
 ## Back-end
-The backend repository is available [here](https://github.com/LucasHenriqueLS/tcc-violet-backend).
+The backend repository is available [here](https://github.com/IMScience-PPGINF-PucMinas/violet-backend).
